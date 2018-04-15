@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Offset_Eater", "Offset_Eater\Offset_Eater.csproj", "{A92D94C4-3DFC-4AF0-BF8B-E199DBBE3DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92D94C4-3DFC-4AF0-BF8B-E199DBBE3DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92D94C4-3DFC-4AF0-BF8B-E199DBBE3DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92D94C4-3DFC-4AF0-BF8B-E199DBBE3DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92D94C4-3DFC-4AF0-BF8B-E199DBBE3DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E4BAE1-E54F-405B-A554-0F00591A48AE}
+	EndGlobalSection
+EndGlobal
